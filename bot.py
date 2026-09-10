@@ -41,7 +41,7 @@ except Exception as _fe:
 # ==========================================
 # Configuration (Token & Owner ID)
 # ==========================================
-TOKEN = "8510677584:AAF5t0ZcQStcooraULvtULzSAtIT7pZ4ZOo"
+TOKEN = "8510677584:AAEEUUbHL_mjvrLUaPaj9_fFAh2SUPNzrL8"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
